@@ -1,0 +1,7 @@
+This is the file used for word count demo using pig.
+
+first we will create the dataset and add some data into it.
+
+later we will dump the file into pig grunt shell and write the program to count the number
+
+of words in the file.
